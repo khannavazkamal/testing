@@ -6,7 +6,14 @@ import org.w3c.dom.*;
 import org.xml.sax.InputSource;
 import org.apache.xpath.NodeSet;
 public class XPathExtractor{
+/*
+This is not a complete function. The idea is automatically generate xpaths required for test using the html page source.
+Instead of manually identifying objects one by one. 
 
+Not sure if many companies are doing this. But sounds like a efficient way of object identification.
+
+Need to first do a POC and identify pros and cons.
+*/
     public void evaluateDocument(File xmlDocument){
 
     try
