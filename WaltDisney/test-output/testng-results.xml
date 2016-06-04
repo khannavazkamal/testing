@@ -10,7 +10,7 @@
         <test-method status="PASS" signature="init()[pri:0, instance:com.waltdisney.HomePageTest@1cff8e3a]" name="init" is-config="true" duration-ms="17171" started-at="2016-06-04T10:22:17Z" finished-at="2016-06-04T10:22:34Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- init -->
+        </test-method> <!-- initi -->
         <test-method status="FAIL" signature="test1()[pri:0, instance:com.waltdisney.HomePageTest@1cff8e3a]" name="test1" duration-ms="2028" started-at="2016-06-04T10:22:34Z" finished-at="2016-06-04T10:22:36Z">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
